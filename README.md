@@ -1,5 +1,5 @@
 - 👋 Hi, I’m karim gh
-- 👀 I’m interested in web development and design.
+- 👀 I combine the art of design and the art of programming.
 - 🌱 Bs degree in computer science 
 - �
 - 📫 Portfolio website : https://karimgh.netlify.app/
