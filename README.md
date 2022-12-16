@@ -1,8 +1,8 @@
-- 👋 Hi, I’m karim gh
-- 👀 I combine the art of design and the art of programming.
+- 👋 Hi, I’m karim ghamlouch
+- 👀 A front end developer and designer.
 - 🌱 Bs degree in computer science 
 - �
-- 📫 Portfolio website : https://karimgh.netlify.app/
+- 📫 Portfolio website : https://karimgh.vercel.app/
 
 <!---
 KarimScript/KarimScript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
