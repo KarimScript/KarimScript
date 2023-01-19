@@ -1,6 +1,5 @@
 - 👋 Hi, I’m karim ghamlouch
 - 👀 A front end developer and designer.
-- 🌱 Bs degree in computer science 
 - �
 - 📫 Portfolio website : https://karimgh.vercel.app/
 
